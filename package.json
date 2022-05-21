@@ -1,0 +1,22 @@
+{
+  "name": "easy-customer-app",
+  "version": "1.0.0",
+  "description": "This is my rest api demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "keywords": [
+    "easy",
+    "customer",
+    "app"
+  ],
+
+  "author": "santosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  }
+}
